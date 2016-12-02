@@ -18,9 +18,12 @@ html {
 }
 
 body {
-  background:  url:(http://imgc.allpostersimages.com/images/P-473-488-90/95/9566/9H12500Z/posters/make-america-great-again.jpg);
-  font: 18px/1.4 $helvetica;
-  color:  $darkgrey;
+background: url(https://brothawolf.files.wordpress.com/2016/05/trumpgreat.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+font: 14px/1.4 $courier;
+color: #001a33;
 }
 
 .container {
