@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: 
 title: About
 permalink: /about/
 ---
 
-Some information about you!
+Absolute baller
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+52 years of age
 
-### Contact me
+Contact me
 
 [email@domain.com](mailto:email@domain.com)
